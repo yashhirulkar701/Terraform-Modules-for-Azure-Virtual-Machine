@@ -1,4 +1,4 @@
-# Terraform-Modules-for-Azure-Virtual-Machine
+# Terraform Modules for Azure Virtual-Machine
 
 
 Terraform module which creates Azure Virtual Machine
